@@ -1,5 +1,7 @@
 Rot
+Orange
 Gelb
 Grün
 Blau
 Violett
+Orange
